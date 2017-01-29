@@ -1,0 +1,1 @@
+console.log('this confirms the node.js installation')
